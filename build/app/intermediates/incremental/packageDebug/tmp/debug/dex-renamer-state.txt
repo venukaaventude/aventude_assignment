@@ -1,0 +1,4 @@
+#Tue Dec 27 11:20:58 IST 2022
+base.0=/Users/aventude/My Projects/aventude_assignment/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
